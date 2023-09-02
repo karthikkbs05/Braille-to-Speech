@@ -18,7 +18,8 @@
   <img width="292" alt="image" src="https://github.com/karthikkbs05/Braille-to-Speech/assets/129792064/5bd60975-00fb-4f9d-b721-8da16544b019">
 
 ## Code and Output
-- [finished.py](finished.py) : Python code of the project.
+- [Finished.py](Finished.py) : Python code of the project.
+- [textToSpeech.py](textToSpeech.py) : Converts a text input a audible speech using python TTS. For which all the library files must be installed.
 
 ### Output 
 ![Screenshot (28)](https://github.com/karthikkbs05/Braille-to-Speech/assets/129792064/be1cbcd3-2d0d-4c48-98dc-9fd96d8bcfcd)
