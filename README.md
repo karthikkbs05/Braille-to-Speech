@@ -5,7 +5,8 @@
   
   <img width="164" alt="image" src="https://github.com/karthikkbs05/Braille-to-Speech/assets/129792064/1eb4a778-0416-4e2b-b0f5-af77bcab70f5">
 
-
+- Check all the Braille Alphabets [here](https://www.pharmabraille.com/pharmaceutical-braille/the-braille-alphabet/).
+  
 ## Area of application
 - This project is designed to make it easier for these individuals to access information, communicate with others, and enjoy entertainment.
 - Students with visual impairments often face difficulties in accessing information and learning materials, making it difficult for them to keep up with their peers. This project can help address these challenges by providing a convenient and efficient means of converting braille to text, making it easier for students with visual impairments to access and understand educational materials.
